@@ -18,5 +18,5 @@ Você pode ver por si mesmo também.
 
 Para ver o projeto ao vivo, siga as instruções abaixo:
 
-1. Acesse o seguinte link: [Projeto Lacrei Saúde](https://seu-link-vercel-aqui).
+1. Acesse o seguinte link: [Projeto Lacrei Saúde](https://lacrei-saude-puce.vercel.app/)
 2. Navegue pelas páginas e explore as funcionalidades implementadas.
